@@ -11,8 +11,9 @@ You need to follow some instructions noted below.
 2. direct to the folder:- cd ClientApp
 3. Run the following commands one by one.
 1] npm install -g npm
+2] npm install react-scripts --save-dev
+3] npm run build
 
-2] npm run build
 
 Now u can easily run;(2 ways)
 
