@@ -17,7 +17,7 @@ In VS Code
 
 And if you open the Application in (VS Code),
 
-You should have node Js Installed in Your pc
+You should have node Js Installed in Your pc, if not (https://nodejs.org/en/) here is the link..
 
 You need to follow some instructions noted below.
 
