@@ -1,10 +1,12 @@
 # FullStackProject
 
+To Run the Application Simply download the Zip file from the option Code, 
+and then unzip in your local pc.
+If you open the file in Microsoft Visual Studio 2022 just run the Application with a simple click besides Debug option.
 
-To Run the Application Clone the Repository you will find this option when you click on Repository, 
-the Green button named 'Code' click it and choose open with Visual Studio Code.
-and if you open the Application in Visual Studio(VS Code),
-to follow some instructions noted below.
+
+And if you open the Application in (VS Code),
+You need to follow some instructions noted below.
 1. open the terminal (You will find the option above in the header)
 2. direct to the folder:- cd ClientApp
 3. Run the following commands one by one.
