@@ -1,7 +1,9 @@
 # FullStackProject
 
 
-To Run the Application Clone the Repository and if you open the Application in V.S code you need,
+To Run the Application Clone the Repository you will find this option when you click on Repository, 
+the Green button named Code click it and choose clone repository
+and if you open the Application in V.S code you need,
 to follow some instructions noted below.
 1. open the terminal (You will find the option above in the header)
 2. direct to the folder:- cd ClientApp
