@@ -6,7 +6,7 @@ function Contactus() {
         <div>
             <body color="blue"></body>
             <h1 style={{ backgroundColor: "", color: "Black" }}>
-                <h1>QHRM Solutions Assesment Test</h1>
+                <h1>Thank You</h1>
                 <h3> Amey S. Kadam</h3>
                 <a href="mailto:ameyskadam28@gmail.com">ameyskadam28@gmail.com</a>
             </h1>
